@@ -19,4 +19,3 @@ elif 18.5 <= BMI <= 25.0:
     print("Normal Weight")
 else:
     print("Over Weight")
-
